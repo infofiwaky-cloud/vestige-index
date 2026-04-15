@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "markets": "Mercados",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "disclaimer": "Aviso Legal"
+  },
+  "hero": {
+    "eyebrow": "Índices Tokenizados de Grado Institucional",
+    "title": "Capital Soberano,\nOn-Chain.",
+    "subtitle": "Accede a fondos índice tokenizados ponderados con precisión en sectores DeFi, Metaverso y Economía de Datos. Infraestructura institucional, ejecución no custodiada.",
+    "cta_primary": "Explorar Índices",
+    "cta_secondary": "Ver Mercados",
+    "stat_1_label": "Valor Total Rastreado",
+    "stat_2_label": "Índices Disponibles",
+    "stat_3_label": "Retorno Promedio 30d"
+  },
+  "indices": {
+    "title": "Índices Tokenizados",
+    "subtitle": "Fondos índice ponderados con precisión. No custodiados. On-chain.",
+    "price": "Precio",
+    "change_24h": "24h",
+    "invest": "Invertir",
+    "divest": "Desinvertir",
+    "fee_note": "Se aplica comisión del 0,5%",
+    "loading": "Cargando datos de mercado...",
+    "error": "Datos de mercado no disponibles"
+  },
+  "trading": {
+    "title": "Ejecutar Posición",
+    "select_index": "Seleccionar Índice",
+    "operation": "Operación",
+    "invest": "Invertir",
+    "divest": "Desinvertir",
+    "amount_label": "Cantidad (USD)",
+    "amount_placeholder": "0,00",
+    "price_label": "Precio del Índice",
+    "fee_label": "Comisión de Plataforma (0,5%)",
+    "you_receive": "Recibirás",
+    "fee_wallet_evm": "Destino de Comisión EVM",
+    "fee_wallet_sol": "Destino de Comisión Solana",
+    "wallet_connect_prompt": "Conecta billetera para continuar",
+    "confirm": "Confirmar y Firmar",
+    "cancel": "Cancelar",
+    "connect_wallet": "Conectar Billetera",
+    "signing": "Esperando firma...",
+    "success": "Transacción enviada",
+    "error": "Transacción fallida"
+  },
+  "wallet": {
+    "connect": "Conectar Billetera",
+    "disconnect": "Desconectar",
+    "connected": "Conectado",
+    "evm": "Billeteras EVM",
+    "solana": "Billeteras Solana",
+    "metamask": "MetaMask",
+    "coinbase": "Coinbase Wallet",
+    "walletconnect": "WalletConnect",
+    "phantom": "Phantom",
+    "solflare": "Solflare",
+    "address_copied": "Dirección copiada"
+  },
+  "dashboard": {
+    "title": "Cartera",
+    "total_value": "Valor Total de Cartera",
+    "pnl_30d": "P&G 30 días",
+    "pnl_pct": "Retorno 30d",
+    "active_positions": "Posiciones Activas",
+    "distribution": "Distribución de Índices",
+    "chart_title": "Rendimiento de Cartera (30d)",
+    "no_positions": "Sin posiciones activas",
+    "connect_prompt": "Conecta tu billetera para ver tu cartera",
+    "index": "Índice",
+    "units": "Unidades",
+    "avg_cost": "Coste Medio",
+    "current": "Actual",
+    "value": "Valor",
+    "pnl": "P&G"
+  },
+  "markets": {
+    "title": "Visión del Mercado",
+    "subtitle": "Los 100 activos principales por capitalización. Actualización cada 60 segundos.",
+    "rank": "#",
+    "name": "Activo",
+    "price": "Precio",
+    "change_24h": "Cambio 24h",
+    "market_cap": "Cap. de Mercado",
+    "volume": "Volumen (24h)",
+    "loading": "Obteniendo datos de mercado...",
+    "error": "No se pueden cargar los datos del mercado",
+    "live": "En Vivo"
+  },
+  "news": {
+    "loading": "Cargando inteligencia de mercado..."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Para consultas institucionales, propuestas de asociación y soporte técnico.",
+    "name_label": "Nombre Completo",
+    "name_placeholder": "Tu nombre completo",
+    "email_label": "Correo Electrónico",
+    "email_placeholder": "tu@correo.com",
+    "subject_label": "Asunto",
+    "subject_placeholder": "Asunto de la consulta",
+    "message_label": "Mensaje",
+    "message_placeholder": "Describe tu consulta en detalle...",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "Mensaje recibido. Responderemos en 2 días hábiles.",
+    "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo.",
+    "disclaimer": "Al enviar este formulario aceptas nuestra Política de Privacidad."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "last_updated": "Última actualización: 1 de enero de 2025"
+  },
+  "disclaimer": {
+    "title": "Aviso Legal y Exención de Responsabilidad",
+    "last_updated": "Última actualización: 1 de enero de 2025"
+  },
+  "footer": {
+    "tagline": "Infraestructura institucional de índices tokenizados.",
+    "copyright": "© 2025 VESTIGE INDEX. Todos los derechos reservados.",
+    "risk_warning": "Los activos digitales implican riesgos significativos. El rendimiento pasado no garantiza resultados futuros. No es asesoramiento financiero."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Reintentar",
+    "back": "Volver",
+    "close": "Cerrar",
+    "refresh": "Actualizar"
+  }
+}

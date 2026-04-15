@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "markets": "Markets",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "disclaimer": "Disclaimer"
+  },
+  "hero": {
+    "eyebrow": "Institutional-Grade Tokenized Indices",
+    "title": "Sovereign Capital,\nOn-Chain.",
+    "subtitle": "Access precision-weighted tokenized index funds across DeFi, Metaverse, and Data Economy sectors. Institutional infrastructure, non-custodial execution.",
+    "cta_primary": "Explore Indices",
+    "cta_secondary": "View Markets",
+    "stat_1_label": "Total Value Tracked",
+    "stat_2_label": "Indices Available",
+    "stat_3_label": "Avg. 30d Return"
+  },
+  "indices": {
+    "title": "Tokenized Indices",
+    "subtitle": "Precision-weighted index funds. Non-custodial. On-chain.",
+    "price": "Price",
+    "change_24h": "24h",
+    "invest": "Invest",
+    "divest": "Divest",
+    "fee_note": "0.5% operation fee applies",
+    "loading": "Loading market data...",
+    "error": "Market data unavailable"
+  },
+  "trading": {
+    "title": "Execute Position",
+    "select_index": "Select Index",
+    "operation": "Operation",
+    "invest": "Invest",
+    "divest": "Divest",
+    "amount_label": "Amount (USD)",
+    "amount_placeholder": "0.00",
+    "price_label": "Index Price",
+    "fee_label": "Platform Fee (0.5%)",
+    "you_receive": "You Receive",
+    "fee_wallet_evm": "EVM Fee Destination",
+    "fee_wallet_sol": "Solana Fee Destination",
+    "wallet_connect_prompt": "Connect wallet to proceed",
+    "confirm": "Confirm & Sign",
+    "cancel": "Cancel",
+    "connect_wallet": "Connect Wallet",
+    "signing": "Awaiting signature...",
+    "success": "Transaction submitted",
+    "error": "Transaction failed"
+  },
+  "wallet": {
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "connected": "Connected",
+    "evm": "EVM Wallets",
+    "solana": "Solana Wallets",
+    "metamask": "MetaMask",
+    "coinbase": "Coinbase Wallet",
+    "walletconnect": "WalletConnect",
+    "phantom": "Phantom",
+    "solflare": "Solflare",
+    "address_copied": "Address copied"
+  },
+  "dashboard": {
+    "title": "Portfolio",
+    "total_value": "Total Portfolio Value",
+    "pnl_30d": "30-Day P&L",
+    "pnl_pct": "30d Return",
+    "active_positions": "Active Positions",
+    "distribution": "Index Distribution",
+    "chart_title": "Portfolio Performance (30d)",
+    "no_positions": "No active positions",
+    "connect_prompt": "Connect your wallet to view your portfolio",
+    "index": "Index",
+    "units": "Units",
+    "avg_cost": "Avg. Cost",
+    "current": "Current",
+    "value": "Value",
+    "pnl": "P&L"
+  },
+  "markets": {
+    "title": "Market Overview",
+    "subtitle": "Top 100 assets by market capitalization. Refreshed every 60 seconds.",
+    "rank": "#",
+    "name": "Asset",
+    "price": "Price",
+    "change_24h": "24h Change",
+    "market_cap": "Market Cap",
+    "volume": "Volume (24h)",
+    "loading": "Fetching market data...",
+    "error": "Unable to load market data",
+    "live": "Live"
+  },
+  "news": {
+    "loading": "Loading market intelligence..."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "For institutional inquiries, partnership proposals, and technical support.",
+    "name_label": "Full Name",
+    "name_placeholder": "Your full name",
+    "email_label": "Email Address",
+    "email_placeholder": "your@email.com",
+    "subject_label": "Subject",
+    "subject_placeholder": "Inquiry subject",
+    "message_label": "Message",
+    "message_placeholder": "Describe your inquiry in detail...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message received. We will respond within 2 business days.",
+    "error": "Failed to send message. Please try again.",
+    "disclaimer": "By submitting this form you agree to our Privacy Policy."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "last_updated": "Last updated: January 1, 2025"
+  },
+  "disclaimer": {
+    "title": "Disclaimer & Liability Exemption",
+    "last_updated": "Last updated: January 1, 2025"
+  },
+  "footer": {
+    "tagline": "Institutional tokenized index infrastructure.",
+    "copyright": "© 2025 VESTIGE INDEX. All rights reserved.",
+    "risk_warning": "Digital assets involve significant risk. Past performance does not guarantee future results. Not financial advice."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "close": "Close",
+    "refresh": "Refresh"
+  }
+}

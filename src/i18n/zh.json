@@ -1,0 +1,136 @@
+{
+  "nav": {
+    "home": "首页",
+    "dashboard": "仪表板",
+    "markets": "市场",
+    "contact": "联系",
+    "privacy": "隐私政策",
+    "disclaimer": "免责声明"
+  },
+  "hero": {
+    "eyebrow": "机构级代币化指数",
+    "title": "主权资本，\n链上运行。",
+    "subtitle": "精准权重代币化指数基金，覆盖DeFi、元宇宙和数据经济领域。机构级基础设施，非托管执行。",
+    "cta_primary": "探索指数",
+    "cta_secondary": "查看市场",
+    "stat_1_label": "追踪总价值",
+    "stat_2_label": "可用指数",
+    "stat_3_label": "30日平均回报"
+  },
+  "indices": {
+    "title": "代币化指数",
+    "subtitle": "精准权重指数基金。非托管。链上执行。",
+    "price": "价格",
+    "change_24h": "24小时",
+    "invest": "投资",
+    "divest": "撤资",
+    "fee_note": "收取0.5%操作费",
+    "loading": "加载市场数据中...",
+    "error": "市场数据不可用"
+  },
+  "trading": {
+    "title": "执行头寸",
+    "select_index": "选择指数",
+    "operation": "操作",
+    "invest": "投资",
+    "divest": "撤资",
+    "amount_label": "金额（美元）",
+    "amount_placeholder": "0.00",
+    "price_label": "指数价格",
+    "fee_label": "平台费用（0.5%）",
+    "you_receive": "您将收到",
+    "fee_wallet_evm": "EVM费用目标地址",
+    "fee_wallet_sol": "Solana费用目标地址",
+    "wallet_connect_prompt": "连接钱包以继续",
+    "confirm": "确认并签名",
+    "cancel": "取消",
+    "connect_wallet": "连接钱包",
+    "signing": "等待签名...",
+    "success": "交易已提交",
+    "error": "交易失败"
+  },
+  "wallet": {
+    "connect": "连接钱包",
+    "disconnect": "断开连接",
+    "connected": "已连接",
+    "evm": "EVM钱包",
+    "solana": "Solana钱包",
+    "metamask": "MetaMask",
+    "coinbase": "Coinbase钱包",
+    "walletconnect": "WalletConnect",
+    "phantom": "Phantom",
+    "solflare": "Solflare",
+    "address_copied": "地址已复制"
+  },
+  "dashboard": {
+    "title": "投资组合",
+    "total_value": "投资组合总价值",
+    "pnl_30d": "30日盈亏",
+    "pnl_pct": "30日回报",
+    "active_positions": "活跃头寸",
+    "distribution": "指数分布",
+    "chart_title": "投资组合表现（30日）",
+    "no_positions": "无活跃头寸",
+    "connect_prompt": "连接您的钱包以查看投资组合",
+    "index": "指数",
+    "units": "单位",
+    "avg_cost": "平均成本",
+    "current": "当前",
+    "value": "价值",
+    "pnl": "盈亏"
+  },
+  "markets": {
+    "title": "市场概览",
+    "subtitle": "按市值排名的前100种资产。每60秒刷新一次。",
+    "rank": "#",
+    "name": "资产",
+    "price": "价格",
+    "change_24h": "24小时变化",
+    "market_cap": "市值",
+    "volume": "成交量（24h）",
+    "loading": "获取市场数据中...",
+    "error": "无法加载市场数据",
+    "live": "实时"
+  },
+  "news": {
+    "loading": "加载市场资讯中..."
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "机构咨询、合作提案及技术支持。",
+    "name_label": "全名",
+    "name_placeholder": "您的全名",
+    "email_label": "电子邮件",
+    "email_placeholder": "your@email.com",
+    "subject_label": "主题",
+    "subject_placeholder": "咨询主题",
+    "message_label": "消息",
+    "message_placeholder": "详细描述您的咨询...",
+    "send": "发送消息",
+    "sending": "发送中...",
+    "success": "消息已收到。我们将在2个工作日内回复。",
+    "error": "发送失败，请重试。",
+    "disclaimer": "提交此表格即表示您同意我们的隐私政策。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "last_updated": "最后更新：2025年1月1日"
+  },
+  "disclaimer": {
+    "title": "免责声明及责任豁免",
+    "last_updated": "最后更新：2025年1月1日"
+  },
+  "footer": {
+    "tagline": "机构级代币化指数基础设施。",
+    "copyright": "© 2025 VESTIGE INDEX。保留所有权利。",
+    "risk_warning": "数字资产具有重大风险。过去表现不代表未来结果。非投资建议。"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "back": "返回",
+    "close": "关闭",
+    "refresh": "刷新"
+  }
+}
