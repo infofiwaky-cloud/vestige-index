@@ -1,4 +1,5 @@
 import { createRootRoute, HeadContent, Scripts, Outlet } from '@tanstack/react-router'
+import { Analytics } from '@vercel/analytics/react'
 import { Header } from '@/components/Header'
 import { NewsTicker } from '@/components/NewsTicker'
 import { SITE } from '@/config/constants'
@@ -158,6 +159,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
           {children}
         </main>
         <Footer />
+        <Analytics />
         <Scripts />
       </body>
     </html>
