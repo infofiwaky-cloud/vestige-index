@@ -1,0 +1,15 @@
+# En la carpeta de tu proyecto
+echo '{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "routes": [
+    { "src": "/favicon.ico", "dest": "/favicon.ico" },
+    { "src": "/assets/(.*)", "dest": "/assets/$1" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}' > vercel.json
+
+git add vercel.json
+git commit -m "Add vercel.json"
+git push
